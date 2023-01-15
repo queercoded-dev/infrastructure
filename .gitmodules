@@ -1,0 +1,15 @@
+[submodule "project-queercoded-server"]
+	path = project-queercoded-server
+	url = https://github.com/queercoded-dev/project-queercoded-server.git
+[submodule "terraform-queer-coded"]
+	path = terraform-queer-coded
+	url = https://github.com/queercoded-dev/terraform-queer-coded.git
+[submodule "argocd-queercoded-server"]
+	path = argocd-queercoded-server
+	url = https://github.com/queercoded-dev/argocd-queercoded-server.git
+[submodule "argocd-queercoded-minecraft"]
+	path = argocd-queercoded-minecraft
+	url = https://github.com/queercoded-dev/argocd-queercoded-minecraft.git
+[submodule "queercoded.dev"]
+	path = queercoded.dev
+	url = https://github.com/queercoded-dev/queercoded.dev.git
